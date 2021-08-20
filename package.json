@@ -1,0 +1,21 @@
+{
+  "name": "aztec-utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "typings": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aztack/aztec-utils.git"
+  },
+  "keywords": [],
+  "author": "aztack@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aztack/aztec-utils/issues"
+  },
+  "homepage": "https://github.com/aztack/aztec-utils#readme"
+}
